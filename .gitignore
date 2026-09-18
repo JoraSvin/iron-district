@@ -1,0 +1,7 @@
+node_modules/
+dist/
+deploy-tools/
+.wrangler-cache/
+.pnpm-store/
+*.tsbuildinfo
+.env
